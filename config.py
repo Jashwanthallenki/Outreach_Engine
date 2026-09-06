@@ -35,7 +35,7 @@ INPUT_FILE = BASE_DIR / "contacts.pdf"
 
 MESSAGE_FILE = TEMPLATE_DIR / "message.txt"
 
-RESUME_FILE = ATTACHMENT_DIR / "Jashwanth_Allenki_Resume.pdf"
+RESUME_FILE = ATTACHMENT_DIR / "resume.pdf"
 
 
 # ============================================================
